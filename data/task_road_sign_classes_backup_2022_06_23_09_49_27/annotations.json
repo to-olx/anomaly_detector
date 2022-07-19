@@ -1,0 +1,2169 @@
+[
+    {
+        "version": 571,
+        "tags": [],
+        "shapes": [
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    339.1796875,
+                    142.10000000000036,
+                    430.60000000000036,
+                    250.9000015258789
+                ],
+                "frame": 0,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    263.40000000000146,
+                    126.431640625,
+                    381.5354995727539,
+                    191.70000000000073
+                ],
+                "frame": 1,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    300.142578125,
+                    259.2353515625,
+                    331.6094551086426,
+                    277.2164249420166
+                ],
+                "frame": 2,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    212.3000000000011,
+                    210.087890625,
+                    307.6999969482422,
+                    261.2000000000007
+                ],
+                "frame": 2,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    195.1337890625,
+                    73.7001953125,
+                    333.60000000000036,
+                    159.5
+                ],
+                "frame": 3,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    148.517578125,
+                    159.70000000000073,
+                    298.94659423828125,
+                    240.9854736328125
+                ],
+                "frame": 4,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    341.5966796875,
+                    177.20000000000073,
+                    472.8679656982422,
+                    305.6999969482422
+                ],
+                "frame": 5,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    102.15625,
+                    77.7998046875,
+                    197.3000000000011,
+                    137.70000000000073
+                ],
+                "frame": 6,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    185.705078125,
+                    169.919921875,
+                    230.29182815551758,
+                    221.13442993164062
+                ],
+                "frame": 7,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    227.8818359375,
+                    116.900390625,
+                    492.38970947265625,
+                    219.3000000000011
+                ],
+                "frame": 7,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    232.60000000000036,
+                    140.3000000000011,
+                    334.0854034423828,
+                    197.26528930664062
+                ],
+                "frame": 8,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    336.326171875,
+                    290.7998046875,
+                    624.6289978027344,
+                    396.2000000000007
+                ],
+                "frame": 9,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    231.2998046875,
+                    66.40000000000146,
+                    349.2000000000007,
+                    136.3000030517578
+                ],
+                "frame": 10,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    120.111328125,
+                    133.046875,
+                    277.4046936035156,
+                    200.70000000000073
+                ],
+                "frame": 11,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    123.40000000000146,
+                    238.900390625,
+                    390.1000061035156,
+                    448.00039062499854
+                ],
+                "frame": 12,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    102.40000000000146,
+                    119.103515625,
+                    191.5,
+                    167.5
+                ],
+                "frame": 13,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    21.015625,
+                    54.5,
+                    333.90000000000146,
+                    173.20000000000073
+                ],
+                "frame": 14,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    305.841796875,
+                    167.7080078125,
+                    361.7376937866211,
+                    192.08813285827637
+                ],
+                "frame": 15,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    182.20000000000073,
+                    181.9794921875,
+                    255.89273834228516,
+                    245.60000000000036
+                ],
+                "frame": 15,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    298.111328125,
+                    239.064453125,
+                    319.5182685852051,
+                    262.8499412536621
+                ],
+                "frame": 15,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    345.087890625,
+                    148.6796875,
+                    376.0090274810791,
+                    165.32953071594238
+                ],
+                "frame": 15,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    346.27734375,
+                    180.1953125,
+                    490.8000000000011,
+                    243.22685623168945
+                ],
+                "frame": 15,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    199.93359375,
+                    89.3701171875,
+                    372.82871093750146,
+                    190.0703125
+                ],
+                "frame": 16,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    324.9462890625,
+                    108.30000000000109,
+                    554.0267333984375,
+                    182.6999969482422
+                ],
+                "frame": 17,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    70.6796875,
+                    307.681640625,
+                    144.04246520996094,
+                    458.48289489746094
+                ],
+                "frame": 18,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    191.931640625,
+                    124.2998046875,
+                    628.0,
+                    389.19981689453016
+                ],
+                "frame": 18,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    679.998046875,
+                    434.029296875,
+                    776.7961578369141,
+                    573.6223449707031
+                ],
+                "frame": 18,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    853.2158203125,
+                    553.244140625,
+                    930.6543121337891,
+                    644.9476165771484
+                ],
+                "frame": 18,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    0.7802734375,
+                    616.27734375,
+                    58.745574951171875,
+                    648.2174072265625
+                ],
+                "frame": 19,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    55.197265625,
+                    559.4951171875,
+                    82.40546798706055,
+                    593.8011093139648
+                ],
+                "frame": 19,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    256.3000000000011,
+                    263.7998046875,
+                    602.9100341796875,
+                    405.6998016357411
+                ],
+                "frame": 19,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    71.400390625,
+                    19.2998046875,
+                    202.70000000000073,
+                    67.30449981689344
+                ],
+                "frame": 20,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    151.294921875,
+                    0.7000000000007276,
+                    505.2000000000007,
+                    147.0
+                ],
+                "frame": 21,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    70.6796875,
+                    315.833984375,
+                    140.98567962646484,
+                    457.46490478515625
+                ],
+                "frame": 22,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    673.884765625,
+                    434.029296875,
+                    778.8342895507812,
+                    576.6791381835938
+                ],
+                "frame": 22,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    190.9130859375,
+                    123.255859375,
+                    629.0519104003906,
+                    387.2000000000007
+                ],
+                "frame": 22,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    856.2724609375,
+                    556.2998046875,
+                    930.6541595458984,
+                    644.9464874267578
+                ],
+                "frame": 22,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    433.4033203125,
+                    241.017578125,
+                    487.6304512023926,
+                    260.9008598327637
+                ],
+                "frame": 23,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    28.5068359375,
+                    242.20000000000073,
+                    60.400000000001455,
+                    274.20000076293945
+                ],
+                "frame": 23,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    353.900390625,
+                    245.2001953125,
+                    418.34052429199073,
+                    278.40000000000146
+                ],
+                "frame": 23,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    0.2197265625,
+                    128.5478515625,
+                    102.42793273925781,
+                    178.5
+                ],
+                "frame": 24,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    159.40000000000146,
+                    106.5107421875,
+                    262.32159423828125,
+                    179.19213104248047
+                ],
+                "frame": 25,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    142.900390625,
+                    36.353515625,
+                    246.8775039672837,
+                    148.40000000000146
+                ],
+                "frame": 26,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    191.9541015625,
+                    242.38671875,
+                    302.4903793334961,
+                    316.10000000000036
+                ],
+                "frame": 27,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    186.2001953125,
+                    41.5,
+                    532.7749145507805,
+                    239.5
+                ],
+                "frame": 27,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    114.0546875,
+                    87.02734375,
+                    578.3998413085938,
+                    244.36744689941406
+                ],
+                "frame": 28,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    269.470703125,
+                    190.9462890625,
+                    548.0590209960938,
+                    263.00779724121094
+                ],
+                "frame": 29,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    57.0576171875,
+                    86.845703125,
+                    414.5118713378906,
+                    232.70000000000073
+                ],
+                "frame": 30,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    82.1826171875,
+                    399.759765625,
+                    839.2803955078125,
+                    787.3938293457031
+                ],
+                "frame": 31,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    949.587890625,
+                    164.7998046875,
+                    1159.7000000000007,
+                    349.60000000000036
+                ],
+                "frame": 32,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    794.8759765625,
+                    220.5986328125,
+                    858.096794128418,
+                    290.3000000000011
+                ],
+                "frame": 33,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    526.2119140625,
+                    261.2000000000007,
+                    622.8554458618164,
+                    368.3000030517578
+                ],
+                "frame": 34,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    584.708984375,
+                    146.7998046875,
+                    623.4061470031738,
+                    201.5
+                ],
+                "frame": 35,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    271.671875,
+                    259.10000000000036,
+                    323.0677719116211,
+                    316.79961013793945
+                ],
+                "frame": 36,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    74.1220703125,
+                    31.600000000000364,
+                    105.9201774597168,
+                    68.79999923706055
+                ],
+                "frame": 37,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    68.1357421875,
+                    56.615234375,
+                    253.8000000000011,
+                    220.91334533691406
+                ],
+                "frame": 38,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    50.5,
+                    22.3017578125,
+                    134.2195281982422,
+                    109.96894836425781
+                ],
+                "frame": 39,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    118.5546875,
+                    0.6103515625,
+                    159.82755661010742,
+                    70.20000000000073
+                ],
+                "frame": 39,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    30.8955078125,
+                    32.626953125,
+                    102.80000000000109,
+                    106.30000000000109
+                ],
+                "frame": 40,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    37.318359375,
+                    60.600000000000364,
+                    181.93508911132812,
+                    194.2040557861328
+                ],
+                "frame": 41,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    894.8232421875,
+                    287.5,
+                    944.5456390380859,
+                    342.6352005004883
+                ],
+                "frame": 42,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    80.3720703125,
+                    313.4541015625,
+                    145.41307830810547,
+                    386.0
+                ],
+                "frame": 43,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    81.4384765625,
+                    314.51953125,
+                    146.47948455810547,
+                    385.95802307128906
+                ],
+                "frame": 44,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    103.830078125,
+                    488.318359375,
+                    126.22124481201172,
+                    570.419303894043
+                ],
+                "frame": 44,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    753.212890625,
+                    142.349609375,
+                    770.7744045257568,
+                    171.00260543823242
+                ],
+                "frame": 45,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    679.2685546875,
+                    151.591796875,
+                    720.8616142272949,
+                    192.3000000000011
+                ],
+                "frame": 45,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    375.9326171875,
+                    359.42578125,
+                    594.25439453125,
+                    476.60000000000036
+                ],
+                "frame": 46,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    14.2509765625,
+                    7.400390625,
+                    215.5585479736328,
+                    108.30000000000109
+                ],
+                "frame": 47,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    26.1064453125,
+                    6.600000000000364,
+                    61.067012786865234,
+                    55.29999923706055
+                ],
+                "frame": 48,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    460.4638671875,
+                    317.4794921875,
+                    549.3660736083984,
+                    473.10000000000036
+                ],
+                "frame": 49,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    158.40000000000146,
+                    40.59765625,
+                    261.58319091796875,
+                    165.70000000000073
+                ],
+                "frame": 50,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    109.5390625,
+                    170.13671875,
+                    140.82612991333008,
+                    201.97268104553223
+                ],
+                "frame": 50,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    266.861328125,
+                    139.990234375,
+                    1154.0285034179688,
+                    577.0
+                ],
+                "frame": 51,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    79.59375,
+                    38.150390625,
+                    117.22150802612305,
+                    53.5
+                ],
+                "frame": 52,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    220.5654296875,
+                    73.1279296875,
+                    234.87457752227783,
+                    89.0269832611084
+                ],
+                "frame": 52,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    670.208984375,
+                    350.8505859375,
+                    817.7389526367188,
+                    514.5
+                ],
+                "frame": 53,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    673.900390625,
+                    168.60000000000036,
+                    827.6578155517564,
+                    350.8999938964844
+                ],
+                "frame": 53,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    37.2998046875,
+                    4.197265625,
+                    64.46621437072645,
+                    24.400000000001455
+                ],
+                "frame": 54,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    57.189453125,
+                    48.70000000000073,
+                    97.00806427001953,
+                    78.60772323608398
+                ],
+                "frame": 55,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    86.0341796875,
+                    57.126953125,
+                    118.50105667114258,
+                    95.46133804321289
+                ],
+                "frame": 56,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    169.345703125,
+                    110.4296875,
+                    193.61541938781738,
+                    130.1268482208252
+                ],
+                "frame": 57,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    49.404296875,
+                    23.55078125,
+                    90.90000000000146,
+                    63.0
+                ],
+                "frame": 57,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    246.0234375,
+                    123.443359375,
+                    265.3688621520996,
+                    139.9749050140381
+                ],
+                "frame": 57,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    71.8828125,
+                    46.7001953125,
+                    126.30000000000109,
+                    85.00019531249927
+                ],
+                "frame": 58,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    879.2880859375,
+                    0.0,
+                    906.3439235687256,
+                    24.23453712463379
+                ],
+                "frame": 59,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    102.6611328125,
+                    54.5341796875,
+                    162.89772415161133,
+                    116.0
+                ],
+                "frame": 60,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    100.1181640625,
+                    42.6396484375,
+                    205.2254180908203,
+                    141.8667755126953
+                ],
+                "frame": 61,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    53.75390625,
+                    49.548828125,
+                    70.20185470581055,
+                    67.66239356994629
+                ],
+                "frame": 62,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    110.689453125,
+                    46.044921875,
+                    133.30144119262695,
+                    70.27205085754395
+                ],
+                "frame": 63,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    84.51953125,
+                    173.541015625,
+                    149.67410278320312,
+                    202.57729148864746
+                ],
+                "frame": 64,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    139.0517578125,
+                    83.599609375,
+                    277.151123046875,
+                    199.0
+                ],
+                "frame": 64,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    165.654296875,
+                    96.466796875,
+                    262.72843170166016,
+                    134.70000000000073
+                ],
+                "frame": 65,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    178.587890625,
+                    173.712890625,
+                    265.4364700317383,
+                    236.18292236328125
+                ],
+                "frame": 66,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    118.51953125,
+                    71.0,
+                    262.8128967285156,
+                    120.4000015258789
+                ],
+                "frame": 67,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    132.60000000000036,
+                    103.2001953125,
+                    360.2423095703125,
+                    225.90000000000146
+                ],
+                "frame": 68,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    180.5859375,
+                    189.7900390625,
+                    339.1868896484375,
+                    311.40000000000146
+                ],
+                "frame": 69,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    190.697265625,
+                    133.7978515625,
+                    260.9259719848633,
+                    171.21898651123047
+                ],
+                "frame": 70,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    74.58203125,
+                    51.099609375,
+                    255.5,
+                    142.6001876831051
+                ],
+                "frame": 71,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    42.892578125,
+                    152.7998046875,
+                    187.3000000000011,
+                    219.89980621337781
+                ],
+                "frame": 72,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    116.322265625,
+                    180.60000000000036,
+                    285.9358215332031,
+                    281.04132080078125
+                ],
+                "frame": 73,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    164.40000000000146,
+                    112.7001953125,
+                    381.6146697998047,
+                    220.8964202880852
+                ],
+                "frame": 74,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    124.7998046875,
+                    152.40000000000146,
+                    294.18179626464735,
+                    217.5
+                ],
+                "frame": 75,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    79.298828125,
+                    77.400390625,
+                    426.10638427734375,
+                    218.3000000000011
+                ],
+                "frame": 76,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    47.810546875,
+                    99.6669921875,
+                    146.23326110839844,
+                    172.90000000000146
+                ],
+                "frame": 77,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    78.73828125,
+                    26.5439453125,
+                    628.618408203125,
+                    189.3956756591797
+                ],
+                "frame": 78,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    259.10000000000036,
+                    75.18359375,
+                    591.1724853515625,
+                    319.8523712158203
+                ],
+                "frame": 79,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    206.69921875,
+                    107.90000000000146,
+                    315.3269805908203,
+                    198.9000015258789
+                ],
+                "frame": 80,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    13.0,
+                    114.0,
+                    148.0,
+                    166.5
+                ],
+                "frame": 81,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    95.962890625,
+                    198.8330078125,
+                    179.79254150390625,
+                    241.72259902954102
+                ],
+                "frame": 82,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    55.6728515625,
+                    225.4765625,
+                    95.31322860717773,
+                    264.467098236084
+                ],
+                "frame": 82,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "warning"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    144.794921875,
+                    23.2998046875,
+                    570.6624450683594,
+                    266.2000000000007
+                ],
+                "frame": 83,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    124.099609375,
+                    38.0,
+                    352.8886932373043,
+                    174.90000000000146
+                ],
+                "frame": 84,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    44.6240234375,
+                    137.369140625,
+                    122.79437255859375,
+                    169.60889053344727
+                ],
+                "frame": 84,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    256.822265625,
+                    106.099609375,
+                    618.9989318847656,
+                    240.10000000000036
+                ],
+                "frame": 85,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    472.09765625,
+                    66.837890625,
+                    534.6970291137695,
+                    128.72590255737305
+                ],
+                "frame": 86,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    116.896484375,
+                    279.146484375,
+                    145.0510597229004,
+                    301.6701431274414
+                ],
+                "frame": 87,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    116.091796875,
+                    304.083984375,
+                    143.44195556640625,
+                    327.41205978393555
+                ],
+                "frame": 87,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    342.90000000000146,
+                    53.1064453125,
+                    508.64598083496094,
+                    205.10000000000036
+                ],
+                "frame": 87,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    79.615234375,
+                    87.638671875,
+                    107.46697044372559,
+                    119.32321548461914
+                ],
+                "frame": 88,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    262.4267578125,
+                    119.81640625,
+                    325.01558685302734,
+                    183.79610061645508
+                ],
+                "frame": 89,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    108.857421875,
+                    23.732421875,
+                    372.82586669921875,
+                    120.60000000000036
+                ],
+                "frame": 90,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    29.1044921875,
+                    60.7001953125,
+                    86.5,
+                    118.04666595458912
+                ],
+                "frame": 91,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    271.900390625,
+                    133.6142578125,
+                    305.0504470825181,
+                    158.70000000000073
+                ],
+                "frame": 92,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    119.20000000000073,
+                    56.0546875,
+                    200.06028747558594,
+                    134.56060791015625
+                ],
+                "frame": 92,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    274.10000000000036,
+                    0.03515625,
+                    418.9047088623047,
+                    97.51231384277344
+                ],
+                "frame": 93,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    68.55078125,
+                    74.232421875,
+                    102.82743072509766,
+                    104.28318405151367
+                ],
+                "frame": 93,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    105.244140625,
+                    106.10000000000036,
+                    363.9192199707031,
+                    164.28726196289062
+                ],
+                "frame": 94,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    180.259765625,
+                    164.287109375,
+                    318.0042419433594,
+                    218.6088752746582
+                ],
+                "frame": 94,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    350.3388671875,
+                    261.2900390625,
+                    433.76158142089844,
+                    301.3846778869629
+                ],
+                "frame": 94,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    136.7001953125,
+                    237.0,
+                    177.82144622802662,
+                    280.5
+                ],
+                "frame": 95,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    173.66796875,
+                    63.0,
+                    362.2484130859375,
+                    156.40000000000146
+                ],
+                "frame": 96,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    173.1865234375,
+                    61.578125,
+                    363.2101745605469,
+                    156.8000000000011
+                ],
+                "frame": 97,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    256.267578125,
+                    203.0,
+                    298.6240463256836,
+                    243.19459533691406
+                ],
+                "frame": 98,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "Regulation Sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    136.142578125,
+                    38.7421875,
+                    372.7987365722656,
+                    219.46142578125
+                ],
+                "frame": 99,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            },
+            {
+                "type": "rectangle",
+                "occluded": false,
+                "z_order": 0,
+                "points": [
+                    77.40000000000146,
+                    7.400390625,
+                    216.77621459960938,
+                    84.00039062499854
+                ],
+                "frame": 100,
+                "group": 0,
+                "source": "manual",
+                "attributes": [],
+                "label": "guidance sign"
+            }
+        ],
+        "tracks": []
+    }
+]
