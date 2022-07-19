@@ -120,7 +120,7 @@ class NeuralNetwork(nn.Module):
         super(NeuralNetwork, self).__init__()
         self.flatten = nn.Flatten()
         self.linear_relu_stack = nn.Sequential(
-            nn.Linear(28*28, 512),
+            nn.Linear(8*8, 512),
             nn.ReLU(),
             nn.Linear(512, 512),
             nn.ReLU(),
